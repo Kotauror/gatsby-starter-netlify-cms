@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Hospitals and clinics
 image: /img/istock_000011829560small.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Hospitals and clinics
+subheading: <copy>
 mainpitch:
   title: Check the availability of hospitals and clinics
   description: >+
