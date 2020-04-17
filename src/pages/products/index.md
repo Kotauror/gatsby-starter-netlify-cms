@@ -19,6 +19,10 @@ intro:
         availability.
       link: > 
         www.gazeta.pl
+      clinicName: >
+        Test Hospitaal
+      rating: >
+        Green
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and

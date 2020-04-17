@@ -184,6 +184,8 @@ export const pageQuery = graphql`
             }
             text
             link
+            clinicName
+            rating
           }
           heading
           description

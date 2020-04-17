@@ -183,6 +183,8 @@ export const productPageQuery = graphql`
             }
             text
             link
+            clinicName
+            rating
           }
           heading
           description
