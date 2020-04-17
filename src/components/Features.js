@@ -11,8 +11,8 @@ const FeatureGrid = ({ gridItems }) => (
   <div className="columns is-multiline">
     {gridItems.map(item => 
     (
-      <div key={item.text} className="column is-2">
-        <section className="section">
+      <div key={item.text} className="column is-4">
+        <section className="section hospital-tile">
           <div className="">
             <div
               style={{
@@ -20,13 +20,12 @@ const FeatureGrid = ({ gridItems }) => (
                 display: 'inline-block',
               }}
             >
-              <PreviewCompatibleImage imageInfo={item} />
+              <a href={item.link} target="blank"><PreviewCompatibleImage imageInfo={item} /></a>
             </div>
           </div>
+          <h5 className="clinic-name">{item.clinicName}</h5>
           <p>{item.text}</p>
-          <p>{item.link}</p>
           <p>{item.rating}</p>
-          <p>{item.clinicName}</p>
           <p>{getDate(item.date)}</p>
         </section>
       </div>
