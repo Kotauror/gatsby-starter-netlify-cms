@@ -21,7 +21,6 @@ intro:
         Test Hospitaal
       rating: green
       link: fefewff
-      date: 2020-04-17T08:53:20.665Z
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -31,7 +30,6 @@ intro:
       link: fefewff
       clinicName: adf
       rating: green
-      date: 2020-04-17T08:53:15.130Z
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -42,7 +40,6 @@ intro:
       link: fefewff
       clinicName: Hello Hospital
       rating: green
-      date: 2020-04-17T08:53:59.517Z
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
@@ -53,7 +50,6 @@ intro:
       link: fefewff
       clinicName: another hospital
       rating: yellow
-      date: 2020-04-17T08:53:55.708Z
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -76,39 +72,4 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
-pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: "50"
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: "80"
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: ??
 ---
