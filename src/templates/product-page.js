@@ -185,7 +185,7 @@ export const productPageQuery = graphql`
             link
             clinicName
             rating
-            date
+            date(formatString: "MMMM DD, YYYY")
           }
           heading
           description
