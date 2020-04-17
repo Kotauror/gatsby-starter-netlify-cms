@@ -28,26 +28,26 @@ description: >-
 intro:
   blurbs:
     - image: /img/logo.png
-      text: Brief description of the hospital eg. Full-service community teaching
+      hospitalDescription: Brief description of the hospital eg. Full-service community teaching
         hospital
       link: https://www.kingsbrook.org/
       date: 2016-12-17T15:04:10.000Z
       clinicName: Kingsbrook Jewish Medical Center
       rating: yellow
     - image: /img/logo.png
-      text: <description>
+      hospitalDescription: <description>
       date: 2020-04-17T10:04:55.591Z
       clinicName: Clinic 2
       rating: yellow
       link: www.bbc.com
     - image: /img/logo.png
-      text: <description>
+      hospitalDescription: <description>
       date: 2020-04-17T10:04:55.627Z
       clinicName: Clinic 3
       link: www.onet.pl
       rating: red
     - image: /img/logo.png
-      text: <description>
+      hospitalDescription: <description>
       date: 2020-04-17T10:04:55.656Z
       clinicName: Clinic 4
       link: www.wp.pl
@@ -57,7 +57,7 @@ intro:
       link: www.gazeta.pl
       clinicName: Clinic 5
       rating: yellow
-      text: <description>
+      hospitalDescription: <description>
   heading: <copy>
   description: <copy>
 ---
