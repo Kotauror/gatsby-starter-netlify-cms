@@ -21,6 +21,7 @@ const FeatureGrid = ({ gridItems }) => (
           <p>{item.link}</p>
           <p>{item.rating}</p>
           <p>{item.clinicName}</p>
+          <p>last updated: {item.date}</p>
         </section>
       </div>
     ))}

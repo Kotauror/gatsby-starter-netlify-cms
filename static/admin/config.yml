@@ -76,8 +76,22 @@ collections:
                       [
                         { label: Image, name: image, widget: image },
                         { label: Link, name: link, widget: string },
-                        { label: Clinic Name, name: clinicName, widget: string},
-                        { label: Rating, name: rating, widget: select, options: ["green", "yellow", "red"] },
+                        {
+                          label: Clinic Name,
+                          name: clinicName,
+                          widget: string,
+                        },
+                        {
+                          label: Rating,
+                          name: rating,
+                          widget: select,
+                          options: ["green", "yellow", "red"],
+                        },
+                        {
+                          label: "Publish Date",
+                          name: "date",
+                          widget: "datetime",
+                        },
                         { label: Text, name: text, widget: text },
                       ],
                   },
@@ -165,8 +179,22 @@ collections:
                       [
                         { label: Image, name: image, widget: image },
                         { label: Link, name: link, widget: string },
-                        { label: Clinic Name, name: clinicName, widget: string},
-                        { label: Rating, name: rating, widget: select, options: ["green", "yellow", "red"] },
+                        {
+                          label: Clinic Name,
+                          name: clinicName,
+                          widget: string,
+                        },
+                        {
+                          label: Rating,
+                          name: rating,
+                          widget: select,
+                          options: ["green", "yellow", "red"],
+                        },
+                        {
+                          label: "Publish Date",
+                          name: "date",
+                          widget: "datetime",
+                        },
                         { label: Text, name: text, widget: text },
                       ],
                   },

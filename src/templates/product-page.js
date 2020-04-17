@@ -185,6 +185,7 @@ export const productPageQuery = graphql`
             link
             clinicName
             rating
+            date
           }
           heading
           description
