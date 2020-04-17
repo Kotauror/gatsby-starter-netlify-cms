@@ -2,9 +2,15 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
+const getDate = (date) => {
+  var myDate = new Date(date)
+  return myDate.toLocaleString();
+}
+
 const FeatureGrid = ({ gridItems }) => (
   <div className="columns is-multiline">
-    {gridItems.map(item => (
+    {gridItems.map(item => 
+    (
       <div key={item.text} className="column is-6">
         <section className="section">
           <div className="has-text-centered">
@@ -21,6 +27,7 @@ const FeatureGrid = ({ gridItems }) => (
           <p>{item.link}</p>
           <p>{item.rating}</p>
           <p>{item.clinicName}</p>
+          <p>{getDate(item.date)}</p>
         </section>
       </div>
     ))}

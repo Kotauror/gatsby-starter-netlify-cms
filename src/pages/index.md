@@ -27,6 +27,7 @@ intro:
         availability.
       link: > 
         www.gazeta.pl
+      date: 2016-12-17T15:04:10.000
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
