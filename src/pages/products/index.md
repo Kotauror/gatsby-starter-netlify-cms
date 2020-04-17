@@ -20,6 +20,7 @@ intro:
         Test Hospitaal
       rating: green
       link: fefewff
+      date: 2020-04-17T09:40:34.925Z
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -29,6 +30,7 @@ intro:
       link: fefewff
       clinicName: adf
       rating: green
+      date: 2020-04-17T09:40:43.288Z
   heading: What we offer
   description: >-
     We're doing our best to help! 
