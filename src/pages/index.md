@@ -1,20 +1,17 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
+title: Hospitals and clinics
+image: /img/istock_000011829560small.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Check the availability of hospitals and clinics
+  description: >+
+    We're doing our best to help! However, please note that multiple locations
+    may have different options, contact satellite for specific details. This
+    information is crowd sourced and has not been checked for accuracy.
+
+description: <copy>
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -67,12 +64,8 @@ intro:
       clinicName: Clinic 5
       rating: yellow
       text: Hello text
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: <copy>
+  description: <copy>
 main:
   heading: Great coffee with no compromises
   description: >
