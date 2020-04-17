@@ -42,7 +42,7 @@ intro:
       link: fefewff
       clinicName: Hello Hospital
       rating: green
-      date: 2020-04-17T08:53:15.200Z
+      date: 2020-04-17T08:53:59.517Z
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
@@ -53,7 +53,7 @@ intro:
       link: fefewff
       clinicName: another hospital
       rating: yellow
-      date: 2020-04-17T08:53:15.251Z
+      date: 2020-04-17T08:53:55.708Z
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
