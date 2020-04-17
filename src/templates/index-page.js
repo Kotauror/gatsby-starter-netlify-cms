@@ -157,7 +157,7 @@ export const pageQuery = graphql`
                 }
               }
             }
-            text
+            hospitalDescription
             link
             clinicName
             rating
