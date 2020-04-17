@@ -21,7 +21,7 @@ intro:
         Test Hospitaal
       rating: green
       link: fefewff
-      date: 2017-01-04T15:04:10.000Z
+      date: 2020-04-17T08:53:20.665Z
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
@@ -31,6 +31,7 @@ intro:
       link: fefewff
       clinicName: adf
       rating: green
+      date: 2020-04-17T08:53:15.130Z
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -41,6 +42,7 @@ intro:
       link: fefewff
       clinicName: Hello Hospital
       rating: green
+      date: 2020-04-17T08:53:59.517Z
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
@@ -51,6 +53,7 @@ intro:
       link: fefewff
       clinicName: another hospital
       rating: yellow
+      date: 2020-04-17T08:53:55.708Z
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
