@@ -34,6 +34,7 @@ intro:
       date: 2016-12-17T15:04:10.000Z
       clinicName: Kingsbrook Jewish Medical Center
       rating: yellow
+      additionalInformation: We've collected data from 50 patients and 3 nurses. Our rating is based on...
     - image: /img/logo.png
       hospitalDescription: <description>
       date: 2020-04-17T10:04:55.591Z

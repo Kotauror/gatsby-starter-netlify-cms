@@ -27,6 +27,7 @@ const FeatureGrid = ({ gridItems }) => (
           <p>{item.hospitalDescription}</p>
           <p>{item.rating}</p>
           <p>{getDate(item.date)}</p>
+          <p>{item.additionalInformation}</p>
         </section>
       </div>
     ))}

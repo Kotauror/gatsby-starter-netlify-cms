@@ -69,6 +69,7 @@ collections:
                         },
                         { label: "Publish Date", name: "date", widget: "datetime" },
                         { label: Hospital description, name: hospitalDescription, widget: string },
+                        { label: Additional information, name: additionalInformation, widget: text}
                       ],
                   },
                 ],
