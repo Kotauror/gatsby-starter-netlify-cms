@@ -5,7 +5,7 @@ image: /img/istock_000011829560small.jpg
 subheading: <Subtitle copy>
 heading: Hospitals and clinics
 mainpitch:
-  title: Check the availability of hospitals and clinics
+  title: Check the availability of hospitals and clinics hello
   description: >+
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed augue
     non urna eleifend ultrices at eu ex. Aenean euismod venenatis erat. Mauris
@@ -34,7 +34,8 @@ intro:
       date: 2016-12-17T15:04:10.000Z
       clinicName: Kingsbrook Jewish Medical Center
       rating: yellow
-      additionalInformation: We've collected data from 50 patients and 3 nurses. Our rating is based on...
+      additionalInformation: We've collected data from 50 patients and 3 nurses. Our
+        rating is based on...
     - image: /img/logo.png
       hospitalDescription: <description>
       date: 2020-04-17T10:04:55.591Z
@@ -63,6 +64,13 @@ intro:
       rating: yellow
       hospitalDescription: <description>
       additionalInformation: additional info
+    - date: 2020-04-17T15:40:08.098Z
+      image: /img/apple-touch-icon.png
+      clinicName: CLinick hanenfe
+      rating: green
+      hospitalDescription: desc
+      additionalInformation: fefewfewfewgegewgewcef
+      link: www.bbc.com
   heading: <copy>
   description: <copy>
 ---
