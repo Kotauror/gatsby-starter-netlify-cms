@@ -17,10 +17,9 @@ intro:
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-      clinicName: >
+      clinicName: |
         Test Hospitaal
-      rating: >
-        Green
+      rating: green
       link: fefewff
     - image: /img/coffee-gear.png
       text: >
@@ -29,6 +28,8 @@ intro:
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
       link: fefewff
+      clinicName: adf
+      rating: green
     - image: /img/tutorials.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -37,6 +38,8 @@ intro:
         to learn anything you want to know about coffee roasting and brewing.
         Email us or call the store for details.
       link: fefewff
+      clinicName: Hello Hospital
+      rating: green
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
@@ -45,6 +48,8 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
       link: fefewff
+      clinicName: another hospital
+      rating: yellow
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
