@@ -47,7 +47,7 @@ intro:
       hospitalDescription: <description>
       date: 2020-04-17T10:04:55.627Z
       clinicName: Clinic 3
-      link: www.onet.pl
+      link: ""
       rating: red
       additionalInformation: additional info
     - image: /img/logo.png
