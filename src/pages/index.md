@@ -43,7 +43,7 @@ intro:
       rating: yellow
       link: www.bbc.com
       additionalInformation: additional info
-    - image: /img/logo.png
+    - image: /img/istock_000011829560small.jpg
       hospitalDescription: <description>
       date: 2020-04-17T10:04:55.627Z
       clinicName: Clinic 3
