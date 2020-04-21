@@ -58,13 +58,6 @@ intro:
       rating: yellow
       hospitalDescription: <description>
       additionalInformation: additional info
-    - date: 2020-04-17T15:40:08.098Z
-      image: /img/apple-touch-icon.png
-      clinicName: CLinick hanenfe
-      rating: green
-      hospitalDescription: desc
-      additionalInformation: fefewfewfewgegewgewcef
-      link: www.bbc.com
   heading: <copy>
   description: <copy>
 ---
