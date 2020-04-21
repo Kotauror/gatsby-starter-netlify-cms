@@ -1,9 +1,9 @@
 ---
+heading: Hospitals and clinics
 templateKey: index-page
 title: <Title copy>
 image: /img/istock_000011829560small.jpg
 subheading: <Subtitle copy>
-heading: Hospitals and clinics
 mainpitch:
   title: Check the availability of hospitals and clinics hello
   description: >+
@@ -21,11 +21,6 @@ mainpitch:
 
 
     Integer sed augue non urna eleifend ultrices at eu ex. Aenean euismod venenatis erat. Mauris fermentum sapien ut ipsum egestas, sit amet tincidunt erat rutrum. Donec accumsan mattis mattis. Vestibulum ex lorem, suscipit non est vel, consectetur congue dui. Vivamus venenatis egestas turpis blandit mattis. Vestibulum pretium nunc in tellus malesuada lobortis. Quisque venenatis sit amet enim id lobortis. Sed at consectetur mi.
-description: >-
-  We're doing our best to help! 
-
-
-  However, please note that multiple locations may have different options, contact satellite for specific details. This information is crowd sourced and has not been checked for accuracy.
 intro:
   blurbs:
     - image: /img/logo.png
@@ -74,4 +69,12 @@ intro:
       link: www.bbc.com
   heading: <copy>
   description: <copy>
+description: >-
+  We're doing our best to help! 
+
+
+  However, please note that multiple locations may have different options, contact satellite for specific details. This information is crowd sourced and has not been checked for accuracy.
 ---
+Body fewfewf
+
+fffeewgf
